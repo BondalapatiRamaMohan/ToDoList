@@ -1,0 +1,13 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.task {
+  margin: 10px 0;
+}
+
+input[type="text"] {
+  margin-right: 10px;
+}
